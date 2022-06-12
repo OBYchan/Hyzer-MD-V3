@@ -16,7 +16,7 @@ Ketik .menu Untuk Memulai Bot
 Runtime: ${uptime}`
    const ftroli = {
     key : {
-    remoteJid: '6283136505591-1614953337@g.us',
+    remoteJid: '6289616866270-1614953337@g.us',
     participant : '0@s.whatsapp.net'
     },
     message: {
@@ -24,9 +24,9 @@ Runtime: ${uptime}`
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: `2022 © ${namebot}, 
-    orderTitle: `Hyzer`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    message: `꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘LORDsumei - @sumei.gt˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷ © ${namebot}, 
+    orderTitle: `LORDsumei`,
+    thumbnail: 'https://telegra.ph/file/6e7fcb7663743ecc18bc5.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
